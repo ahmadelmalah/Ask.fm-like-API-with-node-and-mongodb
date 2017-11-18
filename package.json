@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ahmadelmalah/Ask.fm-like-API-with-node-and-mongodb/issues"
   },
-  "homepage": "https://github.com/ahmadelmalah/Ask.fm-like-API-with-node-and-mongodb#readme"
+  "homepage": "https://github.com/ahmadelmalah/Ask.fm-like-API-with-node-and-mongodb#readme",
+  "dependencies": {
+    "mongoose": "^4.13.4"
+  }
 }
