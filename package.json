@@ -1,0 +1,19 @@
+{
+  "name": "ask-api",
+  "version": "1.0.0",
+  "description": "An api for a web app just like ask.fm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadelmalah/Ask.fm-like-API-with-node-and-mongodb.git"
+  },
+  "author": "Ahmad Elmalah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadelmalah/Ask.fm-like-API-with-node-and-mongodb/issues"
+  },
+  "homepage": "https://github.com/ahmadelmalah/Ask.fm-like-API-with-node-and-mongodb#readme"
+}
